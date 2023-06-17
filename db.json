@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jordan",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jordan",
+      "hobbies": "Guitar playing",
+      "theme": "#F5F5F5"
+    },
+    {
+      "id": 2,
+      "name": "Riley",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Riley",
+      "hobbies": "Drumming",
+      "theme": "#FFDAB9"
+    },
+    {
+      "id": 3,
+      "name": "Jamie",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jamie",
+      "hobbies": "Gaming",
+      "theme": "#ADD8E6"
+    },
+    {
+      "id": 4,
+      "name": "Cameron",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Cameron",
+      "hobbies": "Reading",
+      "theme": "#B0E0E6"
+    },
+    {
+      "id": 5,
+      "name": "Sasha",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Sasha",
+      "hobbies": "Drawing",
+      "theme": "#F0E68C"
+    },
+    {
+      "id": 6,
+      "name": "Avery",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Avery",
+      "hobbies": "Piano playing",
+      "theme": "#FFE4E1"
+    }
+  ]
+}
