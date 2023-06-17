@@ -3,42 +3,42 @@
     {
       "id": 1,
       "name": "Jordan",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jordan",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=1",
       "hobbies": "Guitar playing",
       "theme": "#F5F5F5"
     },
     {
       "id": 2,
       "name": "Riley",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Riley",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=2",
       "hobbies": "Drumming",
       "theme": "#FFDAB9"
     },
     {
       "id": 3,
       "name": "Jamie",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jamie",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=3",
       "hobbies": "Gaming",
       "theme": "#ADD8E6"
     },
     {
       "id": 4,
       "name": "Cameron",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Cameron",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=4",
       "hobbies": "Reading",
       "theme": "#B0E0E6"
     },
     {
       "id": 5,
       "name": "Sasha",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Sasha",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=5",
       "hobbies": "Drawing",
       "theme": "#F0E68C"
     },
     {
       "id": 6,
       "name": "Avery",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Avery",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=6",
       "hobbies": "Piano playing",
       "theme": "#FFE4E1"
     }
