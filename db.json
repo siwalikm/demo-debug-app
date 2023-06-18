@@ -19,7 +19,7 @@
       "name": "Jamie",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=3",
       "hobbies": "Gaming",
-      "theme": "#ADD8E6"
+      "theme": "#F5F5F5"
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "name": "Avery",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=6",
       "hobbies": "Dancing",
-      "theme": "#F5F5F5"
+      "theme": "#ADD8E6"
     }
   ]
 }
