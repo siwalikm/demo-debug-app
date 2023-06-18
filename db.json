@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Jordan",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=1",
-      "hobbies": "Guitar playing",
-      "theme": "#F5F5F5"
+      "hobbies": "Singing",
+      "theme": "#FFE4E1"
     },
     {
       "id": 2,
@@ -39,8 +39,8 @@
       "id": 6,
       "name": "Avery",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=6",
-      "hobbies": "Piano playing",
-      "theme": "#FFE4E1"
+      "hobbies": "Dancing",
+      "theme": "#F5F5F5"
     }
   ]
 }
