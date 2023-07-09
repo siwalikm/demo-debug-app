@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
+import { API_PATH } from "./constants";
 
 interface User {
   id: number;
@@ -10,9 +11,7 @@ interface User {
 }
 
 const getData = async () => {
-  const response = await fetch(
-    "https://my-json-server.typicode.com/siwalikm/demo-proxyman-app/users/"
-  );
+  const response = await fetch(API_PATH);
   const data = await response.json();
   return data;
 };
