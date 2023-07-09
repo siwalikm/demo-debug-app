@@ -49,7 +49,7 @@
       "id": 2,
       "name": "Riley",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=2",
-      "hobbies": ["Running", "Yoga"],
+      "hobbies": ["Running", "Yoga", "Fishing"],
       "theme": "#FFDAB9"
     },
     {
@@ -63,14 +63,14 @@
       "id": 4,
       "name": "Cameron",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=4",
-      "hobbies": ["Reading", "Painting"],
+      "hobbies": ["Reading", "Painting", "Grappling"],
       "theme": "#B0E0E6"
     },
     {
       "id": 5,
       "name": "Sasha",
       "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=5",
-      "hobbies": ["Drawing", "Sculpturing"],
+      "hobbies": ["Drawing", "Sculpturing", "Gaming"],
       "theme": "#F0E68C"
     },
     {
