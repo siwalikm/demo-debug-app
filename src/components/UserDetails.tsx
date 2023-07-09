@@ -37,11 +37,7 @@ export const UserDetails = () => {
           key={user.id}
           style={{ background: user.theme }}
         >
-          <img
-            src={user.avatar}
-            alt={user.name}
-            style={{ transform: "scale(1.6) translateY(-50px)" }}
-          />
+          <img src={user.avatar} alt={user.name} />
           <h2>{user.name}</h2>
           {user?.hobbies?.length > 0 && (
             <div className="hobby">
