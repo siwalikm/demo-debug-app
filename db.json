@@ -3,44 +3,76 @@
     {
       "id": 1,
       "name": "Jordan",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=1",
-      "hobbies": "Singing",
-      "theme": "#FFE4E1"
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jordan",
+      "theme": "#F5F5F5"
     },
     {
       "id": 2,
       "name": "Riley",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=2",
-      "hobbies": "Drumming",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Riley",
       "theme": "#FFDAB9"
     },
     {
       "id": 3,
       "name": "Jamie",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=3",
-      "hobbies": "Gaming",
-      "theme": "#F5F5F5"
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jamie",
+      "theme": "#ADD8E6"
     },
     {
       "id": 4,
       "name": "Cameron",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=4",
-      "hobbies": "Reading",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Cameron",
       "theme": "#B0E0E6"
     },
     {
       "id": 5,
       "name": "Sasha",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=5",
-      "hobbies": "Drawing",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Sasha",
       "theme": "#F0E68C"
     },
     {
       "id": 6,
       "name": "Avery",
-      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=6",
-      "hobbies": "Dancing",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Avery",
+      "theme": "#FFE4E1"
+    }
+  ],
+  "users/v2": [
+    {
+      "id": 1,
+      "name": "Jordan",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jordan",
+      "theme": "#F5F5F5"
+    },
+    {
+      "id": 2,
+      "name": "Riley",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Riley",
+      "theme": "#FFDAB9"
+    },
+    {
+      "id": 3,
+      "name": "Jamie",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Jamie",
       "theme": "#ADD8E6"
+    },
+    {
+      "id": 4,
+      "name": "Cameron",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Cameron",
+      "theme": "#B0E0E6"
+    },
+    {
+      "id": 5,
+      "name": "Sasha",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Sasha",
+      "theme": "#F0E68C"
+    },
+    {
+      "id": 6,
+      "name": "Avery",
+      "avatar": "https://api.dicebear.com/6.x/lorelei/svg?seed=Avery",
+      "theme": "#FFE4E1"
     }
   ]
 }
