@@ -14,7 +14,6 @@ const getData = async () => {
     "https://my-json-server.typicode.com/siwalikm/demo-proxyman-app/users/"
   );
   const data = await response.json();
-  console.log(data);
   return data;
 };
 
@@ -36,7 +35,7 @@ function App() {
           >
             <img src={user.avatar} alt={user.name} />
             <h2>{user.name}</h2>
-            {user.hobbies.length > 0 && (
+            {user?.hobbies?.length > 0 && (
               <div className="hobby">
                 <ul>
                   {user?.hobbies.map((hobby) => (
