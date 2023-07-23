@@ -16,6 +16,8 @@ body {
   height: 100dvh;
   display: flex;
   overflow: hidden;
+  align-items: center;
+  justify-content: center;
 }
 
 @media only screen and (min-width: 720px) {
@@ -27,8 +29,8 @@ body {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  width: 100dvw;
-  padding: 0 200px;
+  width: 1000px;
+  padding: 0 120px;
   align-items: center;
 }
 
@@ -73,9 +75,21 @@ body {
 }
 
 .btn {
-  height: 100%;
-  display: flex;
-  align-items: center;
+  border: 2px solid #060806;
+  border-radius: 6px;
+  display: inline-block;
+  font-size: 12px;
+  margin: 0 7px 7px 0;
+  padding: 7px;
+  background: #f6f6f6;
+  box-shadow: 0px 5px 0px #0000004a;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn:active {
+  box-shadow: none;
+  background: #a5a5a5;
 }
 
 a,

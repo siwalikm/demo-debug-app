@@ -1,26 +1,13 @@
 import { useEffect, useState } from "react";
-import { API_PATH } from "../constants";
 import { Link } from "react-router-dom";
-
-interface User {
-  id: number;
-  name: string;
-  avatar: string;
-  hobbies: Array<string>;
-  theme: string;
-}
-
-const getData = async () => {
-  const response = await fetch(API_PATH);
-  const data = await response.json();
-  return data;
-};
+import { getUserList } from "../fetch";
+import { User } from "../constants";
 
 export const UserList = () => {
   const [usersList, setUsersList] = useState<User[]>([]);
 
   useEffect(() => {
-    getData().then((data) => setUsersList(data));
+    getUserList().then((data) => setUsersList(data));
   }, []);
 
   return (
