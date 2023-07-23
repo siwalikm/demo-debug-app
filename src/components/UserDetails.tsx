@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { getUserDetails, getUserList } from "../fetch";
+import { getUserDetails } from "../fetch";
 import { User } from "../constants";
 
 export const UserDetails = () => {
