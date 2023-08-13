@@ -9,12 +9,12 @@ export const UserDetails = () => {
   const [user, setUser] = useState<User>();
 
   const sumOfHobbies = (input: User) => {
-    // let result = 0;
-    // for (let i = 0; i < input.hobbies.length; i++) {
-    //   result = i + 1;
-    // }
-    // setHobbyCount(result);
-    setHobbyCount(input.hobbies.length);
+    let result = 0;
+    for (let i = 0; i < input.hobbies.length; i++) {
+      result += i;
+    }
+    setHobbyCount(result);
+    // setHobbyCount(input.hobbies.length);
   };
 
   useEffect(() => {
