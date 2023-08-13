@@ -16,11 +16,11 @@ In this episode, we delve into the intricacies of network debugging.
 This episode focuses on how to debug using Dev Tools.
 
 - **Video Link**: [Episode 2](https://www.youtube.com/watch?v=dIT_GLHiv7w&list=PLUu2DhK7dQWO1yyI-tbga6luHWIs3hwSE&index=2)
-- **Example App**: [Dev Tools Debugging App](https://demo-debug-app.vercel.app/user/1)
+- **Example App**: [Dev Tools Debugging App](https://demo-debug-app.vercel.app/#/user/1)
 
 ## Episode 3: Deep Dive into React.js Debugging
 
 In the third episode, we take a deep dive into React.js debugging.
 
 - **Video Link**: [Episode 3](https://www.youtube.com/watch?v=dIT_GLHiv7w&list=PLUu2DhK7dQWO1yyI-tbga6luHWIs3hwSE&index=3)
-- **Example App**: [React.js Debugging App](https://demo-debug-app.vercel.app/react/)
+- **Example App**: [React.js Debugging App](https://demo-debug-app.vercel.app/#/react/)
