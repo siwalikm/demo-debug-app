@@ -1,3 +1,4 @@
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { useState, memo, useEffect, useDebugValue } from "react";
 
 const UserCardComponent = () => {
@@ -88,7 +89,7 @@ let initialStories = [
 ];
 
 export const ReactDemo = () => {
-  let [stories] = useState(initialStories)
+  const [stories] = useState(initialStories)
 
   return (
     < div className="react-demo" >
