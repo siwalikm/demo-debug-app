@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import {
   createBrowserRouter,
+  createHashRouter,
   RouterProvider,
   useRouteError,
 } from "react-router-dom";
@@ -23,7 +24,7 @@ const ErrorPage = () => {
   );
 };
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <UserList />,
