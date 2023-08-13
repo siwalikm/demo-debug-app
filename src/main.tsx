@@ -31,12 +31,12 @@ const router = createHashRouter([
     errorElement: <ErrorPage />,
   },
   {
-    path: "/user/:userId",
+    path: "user/:userId",
     element: <UserDetails />,
     errorElement: <ErrorPage />,
   },
   {
-    path: "/react",
+    path: "react",
     element: <ReactDemo />,
     errorElement: <ErrorPage />,
   },
