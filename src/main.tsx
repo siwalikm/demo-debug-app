@@ -6,7 +6,7 @@ import {
   RouterProvider,
   useRouteError,
 } from "react-router-dom";
-import { UserList, UserDetails } from "./components";
+import { UserList, UserDetails, ReactDemo } from "./components";
 
 const ErrorPage = () => {
   const error: any = useRouteError();
@@ -34,10 +34,15 @@ const router = createBrowserRouter([
     element: <UserDetails />,
     errorElement: <ErrorPage />,
   },
+  {
+    path: "react",
+    element: <ReactDemo />,
+    errorElement: <ErrorPage />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <React.StrictMode>
-    <RouterProvider router={router} />
-  </React.StrictMode>
+  // <React.StrictMode>
+  <RouterProvider router={router} />
+  // </React.StrictMode>
 );
